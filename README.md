@@ -1,8 +1,8 @@
 <img src="https://livingskyschooldivision.github.io/AdminProceduresPublic/LivingSkySDlogo.svg" width=100 align=left>
 
-# AdminProcedures
+# Admin Procedures
 
-AdminProcedures is a project by the Living Sky School Division to improve the processes involved in policy, procedure, and protocol reviews, approvals, and publications. This project is inspired by District of Columbia's dccode.org/simple project.
+Admin Procedures is a project by the Living Sky School Division to improve the processes involved in policy, procedure, and protocol reviews, approvals, and publications. This project is inspired by District of Columbia's dccode.org/simple project.
 
 We have share the goals:
 
@@ -35,5 +35,5 @@ All repositories are licensed under CC0.
 
 The CC0 license is not "Viral." If you wish to contribute, it is therefore necessary for you to explicitly license your pull request under the CC0 License. You can do that by either:
 
-    Licensing all your contributions by following the instructions in Issue 1, or
-    Including the following text in each pull request: I, <name>, license this pull request under the CC0 license.
+Licensing all your contributions by following the instructions in Issue 1, or
+Including the following text in each pull request: I, <name>, license this pull request under the CC0 license.
