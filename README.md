@@ -7,8 +7,7 @@ Admin Procedures is a project by the Living Sky School Division to improve the p
 # Links
 [Acroymns](https://livingskyschooldivision.github.io/AdminProceduresPublic/Acronyms)
 
-[Defintions](https://livingskyschooldivision.github.io/AdminProceduresPublic/Definitions)
-
+[Definitions](https://livingskyschooldivision.github.io/AdminProceduresPublic/Definitions)
 
 
 
