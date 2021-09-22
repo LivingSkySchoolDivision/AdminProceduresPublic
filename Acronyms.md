@@ -1,6 +1,5 @@
 **A3** - A size of paper used to document strategic plans
-
-**Aesop** - The old name for the absense management software 
+**Aesop** - The old name for the absense management software
 **BAU** - Business as Usual Board Report
 **CDS** - Cognitive Disability Services
 **Clever** - IT login software
