@@ -1,4 +1,4 @@
-<img src="https://livingskyschooldivision.github.io/AdminProceduresPublic/LivingSkySDlogo.svg" width=300 align=right>
+<img src="https://livingskyschooldivision.github.io/AdminProceduresPublic/LivingSkySDlogo.svg" width=200 align=left>
 
 # AdminProcedures
 
