@@ -1,4 +1,4 @@
-![Logo](https://livingskyschooldivision.github.io/AdminProceduresPublic/LivingSkySDLogo.svg)
+![](https://livingskyschooldivision.github.io/AdminProceduresPublic/LivingSkySDlogo.svg)
 
 # AdminProcedures
 
