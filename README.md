@@ -10,7 +10,6 @@ Admin Procedures is a project by the Living Sky School Division to improve the p
 [Definitions](https://livingskyschooldivision.github.io/AdminProceduresPublic/Definitions)
 
 
-
 We have share the goals:
 
 1. Zero Errors - we are developing tools and processes to catch errors before they are published.
