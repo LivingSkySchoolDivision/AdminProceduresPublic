@@ -4,6 +4,13 @@
 
 Admin Procedures is a project by the Living Sky School Division to improve the processes involved in policy, procedure, and protocol reviews, approvals, and publications. This project is inspired by District of Columbia's dccode.org/simple project.
 
+# Links
+[Acroymns](https://github.com/LivingSkySchoolDivision/AdminProceduresPublic/blob/main/Acronyms)
+[Defintions](https://github.com/LivingSkySchoolDivision/AdminProceduresPublic/blob/main/Definitions)
+
+
+
+
 We have share the goals:
 
 1. Zero Errors - we are developing tools and processes to catch errors before they are published.
