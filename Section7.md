@@ -1,4 +1,4 @@
-### Business Administration
+### Section 7 - Business Administration
 
 [7.01 Accounting Guidelines](https://livingskyschooldivision.github.io/AdminProceduresPublic/7.01AccountingGuidelines)
 
