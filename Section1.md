@@ -1,1 +1,2 @@
 [Section 1.01 Election of Board Members](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.01ElectionOfBoardMembers)
+[Section 1.02 Meetings](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section%201%20-%20Board%20of%20Education%20Governance%20and%20Management/1.02%20MeetingsSection1-BoardofEducationGovernanceAndManagementElectionofBoardMemebers/ElectionOfBoardMembers)
