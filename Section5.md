@@ -18,7 +18,7 @@
 
 [5.10 Teacher Related Experience](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.10TeacherRelatedExperience)
 
-[5.11 Service Recognition  08 28 2017](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.11ServiceRecognition)
+[5.11 Service Recognition](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.11ServiceRecognition)
 
 [5.12 Retirement Gratuity](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.12RetirementGratuity)
 
@@ -36,7 +36,7 @@
 
 [5.20 Bursary Support Program for Central Office Staff](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.20BursarySupportProgramforCentralOfficeStaff)
 
-[5.22 Accreditation of Teachers 2020](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.22AccreditationofTeachers)
+[5.22 Accreditation of Teachers](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.22AccreditationofTeachers)
 
 [5.23 Recognition of Voluntary Service](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.23RecognitionofVoluntaryService)
 
@@ -76,6 +76,6 @@
 
 [5.41 Work From Home](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.41WorkFromHome)
 
-[5.42 COVID-19 Staff Health and Safety (Ver 4)](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.42COVID-19StaffHealthandSafety)
+[5.42 COVID-19 Staff Health and Safety](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.42COVID-19StaffHealthandSafety)
 
 [5.43 Disclosure of Wrongdoing - Whistleblower](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.43DisclosureofWrongdoing-Whistleblower)
