@@ -1,1 +1,1 @@
-[Section 1.01](https://github.com/LivingSkySchoolDivision/AdminProcedures/blob/1292df40c9d9533192f55c7f46fb03dd44c79abb/Section%201%20-%20Board%20of%20Education%20Governance%20and%20Management/1.01%20Election%20of%20Board%20Memebers/)
+[Section 1.01](https://github.com/LivingSkySchoolDivision/AdminProceduresPublic/blob/7c90ca267001060de04a64e0de6a049dea341cac/Section%201%20-%20Board%20of%20Education%20Governance%20and%20Management/1.01%20Election%20of%20Board%20Memebers)
