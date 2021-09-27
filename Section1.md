@@ -2,12 +2,12 @@
 
 [Section 1.02 Meetings](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.02Meetings)
 
-[Section 1.03 Remuneration and Expenses]
+[Section 1.03 Remuneration and Expenses](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.03RemunerationandExpenses)
 
-[Section 1.04 Director of Education]
+[Section 1.04 Director of Education](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.04DirectorofEducation)
 
-[Seciton 1.05 Board Communication]
+[Seciton 1.05 Board Communication]((https://livingskyschooldivision.github.io/AdminProceduresPublic/1.05BoardCommunications)
 
-[Section 1.06 School Board Associations]
+[Section 1.06 School Board Associations](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.06SchoolBoardAssociations)
 
-[Section 1.07 Assessment of Board Effectiveness]
+[Section 1.07 Assessment of Board Effectiveness](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.07AssessmentOfBoardEffectiveness)
