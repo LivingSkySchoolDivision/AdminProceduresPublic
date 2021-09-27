@@ -1,4 +1,4 @@
-### Section Human Resources
+### Section 5 - Human Resources
 
 [5.01 Recruiting and Placement](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.1RecruitingandPlacement)
 
