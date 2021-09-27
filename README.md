@@ -9,6 +9,7 @@ Admin Procedures is a project by the Living Sky School Division to improve the p
 
 [Definitions](https://livingskyschooldivision.github.io/AdminProceduresPublic/Definitions)
 
+[Section 1 - 1.01)(https://livingskyschooldivision.github.io/AdminProceduresPublic/Section1-BoardofEducationGovernanceAndManagementElectionofBoardMemebers/ElectionOfBoardMembers)
 
 We have share the goals:
 
