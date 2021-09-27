@@ -52,11 +52,4 @@ All documents are in md for the time being using manual commits.
 
 License
 
-Citing reference to DC Law is a work in progress
-
-All repositories are licensed under CC0.
-
-The CC0 license is not "Viral." If you wish to contribute, it is therefore necessary for you to explicitly license your pull request under the CC0 License. You can do that by either:
-
-Licensing all your contributions by following the instructions in Issue 1, or
-Including the following text in each pull request: I, <name>, license this pull request under the CC0 license.
+All repositories are licensed under CC0 with credit to DC Law.
