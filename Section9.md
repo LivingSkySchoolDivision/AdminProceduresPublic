@@ -1,4 +1,4 @@
-### Building and Grounds
+### Section 9 - Building and Grounds
 
 [9.01 Viable School](https://livingskyschooldivision.github.io/AdminProceduresPublic/901ViableSchool)
 
