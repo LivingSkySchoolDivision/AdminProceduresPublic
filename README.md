@@ -11,6 +11,22 @@ Admin Procedures is a project by the Living Sky School Division to improve the p
 
 [Section 1 - Board of Education Governance and Management](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section1)
 
+[Section 2 - Board of Education Governance - SCC](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section2)
+
+[Section 3 - Division Administration](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section3)
+
+[Section 4 - School Operations](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section4)
+
+[Section 5 - Human Resources](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section5)
+
+[Section 6 - Program and Curriculum](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section6)
+
+[Section 7 - Business Administration](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section7)
+
+[Section 8 - Transportation](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section8)
+
+[Section 9 - Buildings and Grounds](https://livingskyschooldivision.github.io/AdminProceduresPublic/Section9)
+
 We have share the goals:
 
 1. Zero Errors - we are developing tools and processes to catch errors before they are published.
