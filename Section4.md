@@ -1,3 +1,5 @@
+### School Operations
+
 [Section 4.01 Decision Making](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.01DecisionMaking)
 
 [Section 4.02 Student Governance](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.02StudentGovernance)
