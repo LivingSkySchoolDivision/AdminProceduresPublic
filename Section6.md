@@ -1,3 +1,5 @@
+### Programs and Curriculum
+
 [Section 6.01 Curriculum and Instructional Program](https://livingskyschooldivision.github.io/AdminProceduresPublic/6.1CurriculumandInstructionalProgram)
 
 [Section 6.02 Services for Students with Intensive Needs](https://livingskyschooldivision.github.io/AdminProceduresPublic/6.02ServicesforStudentsWithIntensiveNeeds)
