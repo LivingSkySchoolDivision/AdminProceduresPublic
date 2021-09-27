@@ -46,9 +46,9 @@
 
 [Section 4.26 Unusual Threats](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.26UnusualThreats)
 
-[Section 4.27 School or EmergencyCrisis Communication](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.27SchoolorEmergencyCrisisCommunication)
+[Section 4.27 School or Emergency Crisis Communication](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.27SchoolorEmergencyCrisisCommunication)
 
-[Section 4.28 Administering Medications and Medical Treatment to Students 7 01 08](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.28AdministeringMedicationsandMedicalTreatmenttoStudents)
+[Section 4.28 Administering Medications and Medical Treatment to Students](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.28AdministeringMedicationsandMedicalTreatmenttoStudents)
 
 [Section 4.29 Students With Severe Anaphylactic Allergies](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.29StudentsWithSevereAnaphylacticAllergies)
 
@@ -66,23 +66,23 @@
 
 [Section 4.39 Local Authority Freedom of Information and Protection of Privacy Act](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.39LocalAuthorityFreedomofInformationandProtectionofPrivacyAct)
 
-[Section 4.40 Permission for Use of Students Personal Information 08 13 2018](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.40PermissionforUseofStudentsPersonalInformation)
+[Section 4.40 Permission for Use of Students Personal Information](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.40PermissionforUseofStudentsPersonalInformation)
 
-[Section 4.42 Respect Antibullying 12 15 08](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.42RespectAntibullying)
+[Section 4.42 Respect Antibullying](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.42RespectAntibullying)
 
 [Section 4.43 School Nutrition ](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.43SchoolNutrition)
 
-[Section 4.44 Use of Seclusion and Restraint 04 13 2016](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.44UseofSeclusionandRestraint)
+[Section 4.44 Use of Seclusion and Restraint](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.44UseofSeclusionandRestraint)
 
-[Section 4.45 Exclusion of Students for Safety or Medical Reasons 04 13 2016](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.45ExclusionofStudentsforSafetyorMedicalReasons)
+[Section 4.45 Exclusion of Students for Safety or Medical Reasons](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.45ExclusionofStudentsforSafetyorMedicalReasons)
 
-[Section 4.46 Service Dogs In Schools 04 13 2016](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.46ServiceDogsInSchools)
+[Section 4.46 Service Dogs In Schools](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.46ServiceDogsInSchools)
 
-[Section 4.47 Password for Electronic Devices 09 26 2018](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.47PasswordforElectronicDevices)
+[Section 4.47 Password for Electronic Devices](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.47PasswordforElectronicDevices)
 
-[Section 4.48 Alternate Education 04 26 2017](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.48AlternateEducation)
+[Section 4.48 Alternate Education](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.48AlternateEducation)
 
-[Section 4.49 Student Use of Alcohol Cannabis Or Other Drugs 10 10 18](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.49StudentUseofAlcoholCannabisOrOtherDrugs)
+[Section 4.49 Student Use of Alcohol Cannabis Or Other Drugs](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.49StudentUseofAlcoholCannabisOrOtherDrugs)
 
-[Section 4.50 Memorial Services & Shrines 2021 06 16](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.50MemorialServices&Shrines)
+[Section 4.50 Memorial Services & Shrines](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.50MemorialServices&Shrines)
 
