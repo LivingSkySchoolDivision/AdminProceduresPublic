@@ -1,4 +1,4 @@
-### Division Administration
+### Section 3 - Division Administration
 
 [3.01 - Administrative Structure](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.01AdministrativeStructure)
 
