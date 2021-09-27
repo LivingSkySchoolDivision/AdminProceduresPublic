@@ -15,7 +15,7 @@ We have share the goals:
 
 1. Zero Errors - we are developing tools and processes to catch errors before they are published.
 2. Up-to-date - The tools will let us update the procedures in days, rather than months.
-3. Machine Readable - we will publish the code in an xml format with consistent, semantic metadata.
+3. Machine Readable - we will publish the code in markdown format with consistent metadata
 4. Easy to Use - we will publish a website where people can easily read and interact with the code.
 
 To reach these goals we must accomplish the following general tasks:
