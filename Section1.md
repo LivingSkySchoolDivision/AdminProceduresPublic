@@ -6,7 +6,7 @@
 
 [Section 1.04 Director of Education](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.04DirectorofEducation)
 
-[Seciton 1.05 Board Communication]((https://livingskyschooldivision.github.io/AdminProceduresPublic/1.05BoardCommunications)
+[Seciton 1.05 Board Communication](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.05BoardCommunications)
 
 [Section 1.06 School Board Associations](https://livingskyschooldivision.github.io/AdminProceduresPublic/1.06SchoolBoardAssociations)
 
