@@ -1,3 +1,5 @@
+### Human Resources
+
 [Section 5.1 Recruiting and Placement](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.1RecruitingandPlacement)
 
 [Section 5.02 Criminal Record Checks](https://livingskyschooldivision.github.io/AdminProceduresPublic/5.02CriminalRecordChecks)
