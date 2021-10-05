@@ -66,6 +66,8 @@
 
 [4.37 - Responsible Use](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.37ResponsibleUse)
 
+[4.38 - School Division Website Maintenance](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.38SchoolDivisionWebsiteMaintenance)
+
 [4.39 - Local Authority Freedom of Information and Protection of Privacy Act](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.39LocalAuthorityFreedomOfInformationandProtectionofPrivacyAct)
 
 [4.40 - Permission for Use of Students Personal Information](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.40PermissionForUseofStudentsPersonalInformation)
