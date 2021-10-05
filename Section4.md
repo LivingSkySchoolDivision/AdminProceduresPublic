@@ -30,7 +30,7 @@
 
 [4.16 - Parent and Public Inquiries](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.16ParentandPublicInquiries)
 
-[4.17 - Safe Schools](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.17SafeSchools)
+[4.17 - School Crisis and Emergency Response](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.17SchoolCrisisAndEmergencyResponse)
 
 [4.18 - Health and Safety of Students and Staff](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.18HealthandSafetyofStudentsandStaff)
 
