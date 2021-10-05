@@ -8,7 +8,7 @@
 
 [4.05 - Promotion and Retention of Students](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.05PromotionandRetentionofStudents)
 
-[4.06 Student Assessment Evaluation and Reporting](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.06StudentAssessmentEvaluationAndReporting)
+[4.06 - Student Assessment Evaluation and Reporting](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.06StudentAssessmentEvaluationAndReporting)
 
 [4.07 - Student Awards](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.07StudentAwards)
 
