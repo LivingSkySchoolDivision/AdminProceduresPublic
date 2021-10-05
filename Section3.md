@@ -14,4 +14,4 @@
 
 [3.07 Policy and Procedures Dissemination ](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.07PolicyandProceduresDissemination)
 
-[3.08 Communicating with Media](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.08CommunicatingwithMedia)
+[3.08 Communicating with Media](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.08CommunicatingWithMedia)
