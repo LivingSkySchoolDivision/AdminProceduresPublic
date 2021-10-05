@@ -12,6 +12,6 @@
 
 [3.06 Review of Administrative Procedures ](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.06ReviewofAdministrativeProcedures)
 
-[3.07 Policy and Procedures Dissemination ](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.07PolicyandProceduresDissemination)
+[3.07 Policy and Procedures Dissemination ](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.07PolicyAndProceduresDissemination)
 
 [3.08 Communicating with Media](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.08CommunicatingWithMedia)
