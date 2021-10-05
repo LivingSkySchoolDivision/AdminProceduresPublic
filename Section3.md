@@ -2,7 +2,7 @@
 
 [3.01 - Administrative Structure](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.01AdministrativeStructure)
 
-[3.02 - Director of Education](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.02DirectorofEducation)
+[3.02 - Director of Education](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.02DirectorOfEducation)
 
 [3.03 - Superintendents Chief Financial Officer](https://livingskyschooldivision.github.io/AdminProceduresPublic/3.03SuperintendentsChiefFinancialOfficer)
 
