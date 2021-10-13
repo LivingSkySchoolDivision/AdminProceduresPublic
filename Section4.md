@@ -28,15 +28,15 @@
 
 [4.15 - Student Discipline](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.15StudentDiscipline)
 
-[4.16 - Parent and Public Inquiries](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.16ParentandPublicInquiries)
+[4.16 - Parent and Public Inquiries](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.16ParentAndPublicInquiries)
 
 [4.17 - School Crisis and Emergency Response](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.17SchoolCrisisAndEmergencyResponse)
 
-[4.18 - Health and Safety of Students and Staff](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.18HealthandSafetyofStudentsandStaff)
+[4.18 - Health and Safety of Students and Staff](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.18HealthandSafetyOfStudentsandStaff)
 
 [4.19 - Student Welfare](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.19StudentWelfare)
 
-[4.20 - Police Action in Schools](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.20PoliceActioninSchools)
+[4.20 - Police Action in Schools](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.20PoliceActionInSchools)
 
 [4.21 - Searches by School Authorities](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.21SearchesbySchoolAuthorities)
 
@@ -50,11 +50,11 @@
 
 [4.27 - School or Emergency Crisis Communication](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.27SchoolOrEmergencyCrisisCommunication)
 
-[4.28 - Administering Medications and Medical Treatment to Students](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.28AdministeringMedicationsandMedicalTreatmenttoStudents)
+[4.28 - Administering Medications and Medical Treatment to Students](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.28AdministeringMedicationsandMedicalTreatmentToStudents)
 
 [4.29 - Students With Severe Anaphylactic Allergies](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.29StudentsWithSevereAnaphylacticAllergies)
 
-[4.31 - Emergency Closing of Schools](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.31EmergencyClosingofSchools)
+[4.31 - Emergency Closing of Schools](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.31EmergencyClosingOfSchools)
 
 [4.32 - School Goals](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.32SchoolGoals)
 
@@ -68,7 +68,7 @@
 
 [4.38 - School Division Website Maintenance](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.38SchoolDivisionWebsiteMaintenance)
 
-[4.39 - Local Authority Freedom of Information and Protection of Privacy Act](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.39LocalAuthorityFreedomOfInformationandProtectionofPrivacyAct)
+[4.39 - Local Authority Freedom of Information and Protection of Privacy Act](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.39LocalAuthorityFreedomOfInformationAndProtectionofPrivacyAct)
 
 [4.40 - Permission for Use of Students Personal Information](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.40PermissionForUseofStudentsPersonalInformation)
 
@@ -78,7 +78,7 @@
 
 [4.44 - Use of Seclusion and Restraint](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.44UseofSeclusionandRestraint)
 
-[4.45 - Exclusion of Students for Safety or Medical Reasons](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.45ExclusionofStudentsforSafetyorMedicalReasons)
+[4.45 - Exclusion of Students for Safety or Medical Reasons](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.45ExclusionofStudentsForSafetyorMedicalReasons)
 
 [4.46 - Service Dogs In Schools](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.46ServiceDogsInSchools)
 
@@ -86,7 +86,7 @@
 
 [4.48 - Alternate Education](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.48AlternateEducation)
 
-[4.49 - Student Use of Alcohol Cannabis Or Other Drugs](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.49StudentUseofAlcoholCannabisOrOtherDrugs)
+[4.49 - Student Use of Alcohol Cannabis Or Other Drugs](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.49StudentUseOfAlcoholCannabisOrOtherDrugs)
 
 [4.50 - Memorial Services & Shrines](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.50MemorialServicesAndShrines)
 
