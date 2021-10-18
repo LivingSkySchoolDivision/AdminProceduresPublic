@@ -1,0 +1,151 @@
+**List of Admin Procedures for Review**
+
+- [ ]	1.01 Election Of Board Members  
+- [ ]	1.02 Meetings  
+- [ ]	1.03 Remuneration And Expenses  
+- [ ]	1.04 Director Of Education  
+- [ ]	1.05 Board Communications  
+- [ ]	1.06 School Board Associations  
+- [ ]	1.07 Assessment Of Board Effectiveness  
+
+- [ ]	2.01 School Community Councils  
+
+- [ ]	3.01 Administrative Structure 
+- [ ]	3.02 Director Of Education  
+- [ ]	3.03 Superintendents, Chief Financial Officer  
+- [ ]	3.04 DivisionLeadershipTeam  
+- [ ]	3.05 Bonding of Employee 
+- [ ]	3.06 Review Of Administrative Procedures  
+- [ ]	3.07 Policy And Procedures Dissemination  
+- [ ]	3.08 Communicating With Media  
+
+- [ ]	4.01 Decision Making  
+- [ ]	4.02 Student Governance  
+- [ ]	4.03 Admission Of Students  
+- [ ]	4.04 Class Size  
+- [ ]	4.05 Promotion And Retention Of Students  
+- [ ]	4.06 Student Assessment Evaluation And Reporting  
+- [x]	4.07 Student Awards - October 26, 2021  
+- [ ]	4.08 Placement Of Students  
+- [ ]	4.11 Hours Of Operation  
+- [ ]	4.12 SchoolYearCalendar  
+- [ ]	4.13 StudentSafetyAndSupervision  
+- [ ]	4.14 CodeOfConduct  
+- [ ]	4.15 StudentDiscipline  
+- [x]	4.16 ParentAndPublicInquiries  - October 26, 2021  
+- [ ]	4.17 School Crisis And Emergency Response  
+- [ ]	4.18 Health And Safety Of Students And Staff  
+- [ ]	4.19 Student Welfare 
+- [ ]	4.20 Police Action In Schools  
+- [ ]	4.21 SearchesBySchoolAuthorities   
+- [ ]	4.22 FireSafety  
+- [ ]	4.23 FirstAid  
+- [ ]	4.25 ViolenceInSchools  
+- [ ]	4.26 Unusual Threats  
+- [ ]	4.27 School Or Emergency Crisis  
+- [ ]	4.28 Administering Medications And Medical Treatment To Students  
+- [ ]	4.29 Students With Severe Anaphylactic Allergies  
+- [ ]	4.31 Emergency Closing Of Schools Inclement Weather  
+- [ ]	4.32 School Goals  
+- [x]	4.33 Student Excursions - October 26, 2021  
+- [ ]	4.34 Student Records
+- [ ]	4.35 Advertising And Corporate Sponsorship  
+- [ ]	4.37 Responsible Use  
+- [x]	4.38 School Division Website Maintenance - October 26, 2021
+- [ ]	4.40 Permission For Use For Students Work And Personal Information  
+- [ ]	4.42 Respect Antibullying  
+- [ ]	4.43 School Nutrition  
+- [ ]	4.44 Use Of Seclusion And Restraint  
+- [ ]	4.45 Exclusion Of Students For Safety Or Medical Reasons
+- [ ]	4.46 Service Dogs In Schools  
+- [ ]	4.47 Password For Electronic Devices  
+- [ ]	4.48 Alternative Education  
+- [ ]	4.49 Student Use Of Alcohol Cannabis Or Other Drugs 
+- [ ]	4.50 Memorial Services And Shrines    
+
+- [ ]	5.01StaffRecruitmentandSelection.md
+- [ ]	5.02CriminalRecordChecks.md
+- [ ]	5.03ReportingCriminalCharges.md
+- [ ]	5.04SubstituteandCasualStaff.md
+- [ ]	5.05Volunteers.md
+- [ ]	5.07NewEmployeeOrientation.md
+- [ ]	5.08ReassignmentofTeachersandSchoolBasedAdministrators.md
+- [ ]	5.09StaffReductions.md
+- [ ]	5.10TeacherRelatedExperience.md
+- [ ]	5.11ServiceRecognition.md
+- [ ]	5.13TransitiontoRetirementforTeachingStaff.md
+- [ ]	5.14StaffResignationsandRetirements.md
+- [ ]	5.15SupervisionandEvaluationofNonTeachingStaff.md
+- [ ]	5.16SupervisionandEvaluationofTeachers.md
+- [ ]	5.18StudentPracticumandInternshipPrograms.md
+- [ ]	5.19TeacherBursaryApplication.md
+- [ ]	5.20BursarySupportProgram.md
+- [ ]	5.22AccreditationOfTeachers.md
+- [ ]	5.23RecognitionofVoluntaryService.md
+- [ ]	5.24TimeBanksandOvertimePaySupportStaff.md
+- [ ]	5.25TwelveMonthEmployeeVacationCarryoverNonTeachingStaff.md
+- [ ]	5.26RequestforServices.md
+- [ ]	5.27SupplementalEmploymentBenefitsPlanforNonTeachingStaff.md
+- [ ]	5.28Nomination-ElectionandCandidatePublicOfficeLeave.md
+- [ ]	5.29ProfessionalDevelopment.md
+- [ ]	5.30TheDutytoAccommodateReturntoWork.md
+- [ ]	5.31Workers'Compensation.md
+- [ ]	5.32PersonalDiscriminatoryAndSexualHarassment.md
+- [ ]	5.33EmployeeUseofSocialMedia.md
+- [ ]	5.34LoneWorker.md
+- [ ]	5.35OccupationalHealthCommittees.md
+- [ ]	5.36FirstAid.md
+- [ ]	5.37EmployeeUseofDrugsandAlcohol.md
+- [ ]	5.38LocalAuthorityFreedomofInformationandProtectionofPrivacy.md
+- [ ]	5.39Confidentiality.md
+- [ ]	5.40PrivacyBreachProtocol.md
+- [ ]	5.41WorkFromHome.md
+- [ ]	5.42COVID-19StaffHealthandSafety.md
+- [ ]	5.43DisclosureofWrongdoingWhistleblower 
+
+- [ ]	6.01CurriculumandInstructionalProgram.md
+- [ ]	6.02ServicesforStudentswithIntensiveNeeds.md
+- [ ]	6.03CitizenshipEducation.md
+- [ ]	6.04ReligiousEducation.md
+- [ ]	6.05HomeBasedEducation.md
+- [ ]	6.06FamilyLifeAndSexEducation.md
+- [ ]	6.07DriverEducation.md
+- [ ]	6.08PurchaseofServices.md
+- [ ]	6.09InstructionalandLearningResources.md
+- [ ]	6.10Prekindergarten.md
+- [ ]	6.11DistanceandBlendedLearningCourses.md
+- [ ]	6.12SpecialProjects102030.md
+- [ ]	6.13CourseChallenge.md
+- [ ]	6.14PhyscialActivitiesSafety.md
+- [ ]	6.15ChallengedMaterials.md
+- [ ]	6.16BandProgram.md
+- [ ]	6.18LaptopComputers.md
+- [ ]	6.20TechnologyRequestsforSoftwareHardwareAndPeripherals.md
+- [ ]	6.21ThirdPartyReviewofSpecialEducationDecisions.md
+- [ ]	6.22ApprenticeshipCredits.md
+- [ ]	6.23ResearchProjects.md
+- [ ]	6.24CreditRecovery.md
+
+- [ ]	7.01AccountingGuidelines.md
+- [ ]	7.02Budget.md
+- [ ]	7.03InventoryManagement.md
+- [ ]	7.04Insurance.md
+- [ ]	7.05Payments.md
+- [ ]	7.06Purchasing.md
+- [ ]	7.07FundAccounting.md
+- [ ]	7.08Records.md
+
+- [ ]	8.01TransportationServices.md
+- [ ]	8.02TransportationSafety.md
+- [ ]	8.04StudentConduct.md
+- [ ]	8.05SevereWeather.md
+- [ ]	8.06SpecialUseOfBuses.md
+- [ ]	8.07SchoolAttendanceAreas.md
+- [ ]	8.08FifteenPassengerVans.md
+
+- [ ]	9.01ViableSchool.md
+- [ ]	9.02FacilitiesPlanning.md
+- [ ]	9.03MaintenanceAndInspection.md
+- [ ]	9.04CommunityUseOfSchoolFacilities.md
+- [ ]	9.05BreakInTheftVandalism.md
+- [ ]	9.07RoofLevelFallProtection.md
