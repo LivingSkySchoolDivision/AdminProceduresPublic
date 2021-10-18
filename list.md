@@ -59,7 +59,8 @@
 - [ ]	4.32 School Goals  
 - [x]	4.33 Student Excursions - October 26, 2021  
 - [ ]	4.34 Student Records
-- [ ]	4.35 Advertising And Corporate Sponsorship  
+- [ ]	4.35 Advertising And Corporate Sponsorship
+- [ ]	4.36 Use of Cell Phones and Electronic Devices  
 - [ ]	4.37 Responsible Use  
 - [x]	4.38 School Division Website Maintenance - October 26, 2021
 - [ ]	4.40 Permission For Use For Students Work And Personal Information  
