@@ -64,6 +64,8 @@
 
 [4.35 - Advertising and Corporate Sponsorship](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.35AdvertisingandCorporateSponsorship)
 
+[4.36 - Use of Cell Phones and Electric Devices in Schools](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.36UseOfCellPhonesAndElectronicDevicesInSchools)
+
 [4.37 - Responsible Use](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.37ResponsibleUse)
 
 [4.38 - School Division Website Maintenance](https://livingskyschooldivision.github.io/AdminProceduresPublic/4.38SchoolDivisionWebsiteMaintenance)
