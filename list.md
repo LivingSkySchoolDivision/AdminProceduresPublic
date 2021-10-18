@@ -1,8 +1,6 @@
 **Admin Procedure Reviews**
 
-**Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_lru2e70qgl6k3mmjo13tes7jok%40group.calendar.google.com&ctz=America%2FRegina" style="border: 0" width="400" height="300" frameborder="0" scrolling="no"></iframe></div>
+[**Calendar**]("https://calendar.google.com/calendar/embed?src=c_lru2e70qgl6k3mmjo13tes7jok%40group.calendar.google.com&ctz=America%2FRegina)
 
 </br>
 
