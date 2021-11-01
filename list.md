@@ -1,9 +1,7 @@
 **Admin Procedure Reviews**
 
-**Calendar**
-[Link](https://calendar.google.com/calendar/embed?src=c_lru2e70qgl6k3mmjo13tes7jok%40group.calendar.google.com&ctz=America%2FRegina)
-
-</br>
+**Calendar** [Link](https://calendar.google.com/calendar/embed?src=c_lru2e70qgl6k3mmjo13tes7jok%40group.calendar.google.com&ctz=America%2FRegina)
+<br/>
 
 **List of Admin Procedures for Review**
 
