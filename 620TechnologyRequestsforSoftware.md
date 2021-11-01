@@ -1,3 +1,23 @@
+<img src="https://livingskyschooldivision.github.io/AdminProceduresPublic/LivingSkySDlogo.svg" width=80 align=left> 
+
+# Living Sky School Division No. 202
+
+
+
+**Procedure Type:**   		Program and Curriculum
+
+**Procedure Number:**		6.20
+	
+**Procedure Title:**  	    Technology Requests for Software, Hardware and Peripherals
+ 	
+**Legal Reference:**	   
+
+**Approval Date:**	       July 24, 2014
+
+**Revision Date:**	       February 25, 2015
+
+-----
+
 Background
 School based or individual requests for software installation and/or the addition of hardware or peripherals must follow the procedures below in order to ensure the software is compatible with the technical systems and licensing is compliant.
 Procedures
