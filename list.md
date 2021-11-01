@@ -35,22 +35,22 @@
 - [ ]	4.04 Class Size  
 - [ ]	4.05 Promotion And Retention Of Students  
 - [ ]	4.06 Student Assessment Evaluation And Reporting  
-- [x]	4.07 Student Awards - October 26, 2021  
+- [x]	4.07 Student Awards - November 2, 2021  
 - [ ]	4.08 Placement Of Students  
 - [ ]	4.11 Hours Of Operation  
-- [ ]	4.12 SchoolYearCalendar  
-- [ ]	4.13 StudentSafetyAndSupervision  
-- [ ]	4.14 CodeOfConduct  
-- [ ]	4.15 StudentDiscipline  
-- [x]	4.16 ParentAndPublicInquiries  - October 26, 2021  
+- [ ]	4.12 School Year Calendar  
+- [ ]	4.13 Student Safety And Supervision  
+- [ ]	4.14 Code Of Conduct  
+- [ ]	4.15 Student Discipline  
+- [x]	4.16 Parent And Public Inquiries - November 9, 2021  
 - [ ]	4.17 School Crisis And Emergency Response  
 - [ ]	4.18 Health And Safety Of Students And Staff  
 - [ ]	4.19 Student Welfare 
 - [ ]	4.20 Police Action In Schools  
-- [ ]	4.21 SearchesBySchoolAuthorities   
-- [ ]	4.22 FireSafety  
-- [ ]	4.23 FirstAid  
-- [ ]	4.25 ViolenceInSchools  
+- [ ]	4.21 Searches By School Authorities   
+- [ ]	4.22 Fire Safety  
+- [ ]	4.23 First Aid  
+- [ ]	4.25 Violence In Schools  
 - [ ]	4.26 Unusual Threats  
 - [ ]	4.27 School Or Emergency Crisis  
 - [ ]	4.28 Administering Medications And Medical Treatment To Students  
@@ -60,16 +60,17 @@
 - [x]	4.33 Student Excursions - October 26, 2021  
 - [ ]	4.34 Student Records
 - [ ]	4.35 Advertising And Corporate Sponsorship
-- [ ]	4.36 Use of Cell Phones and Electronic Devices  
+- [x]	4.36 Use of Cell Phones and Electronic Devices  
 - [ ]	4.37 Responsible Use  
-- [x]	4.38 School Division Website Maintenance - October 26, 2021
-- [ ]	4.40 Permission For Use For Students Work And Personal Information  
+- [x]	4.38 School Division Website Maintenance - October 26, 2021 - To be removed
+- [ ]	4.40 Permission For Use For Students Work And Personal Information
+- [x]	4.41 Motorized Vehicle Traffic - November 9, 2021 - To be removed 
 - [ ]	4.42 Respect Antibullying  
 - [ ]	4.43 School Nutrition  
 - [ ]	4.44 Use Of Seclusion And Restraint  
 - [ ]	4.45 Exclusion Of Students For Safety Or Medical Reasons
 - [ ]	4.46 Service Dogs In Schools  
-- [ ]	4.47 Password For Electronic Devices  
+- [x]	4.47 Password For Electronic Devices - November 2, 2021 
 - [ ]	4.48 Alternative Education  
 - [ ]	4.49 Student Use Of Alcohol Cannabis Or Other Drugs 
 - [ ]	4.50 Memorial Services And Shrines    
@@ -154,7 +155,7 @@
 - [ ]	8.01 Transportation Services
 - [ ]	8.02 Transportation Safety
 - [ ]	8.04 Student Conduct
-- [ ]	8.05 Severe Weather
+- [x]	8.05 Severe Weather - November 9, 2021 
 - [ ]	8.06 Special Use Of Buses
 - [ ]	8.07 School Attendance Areas
 - [ ]	8.08 Fifteen Passenger Vans
