@@ -58,7 +58,7 @@
 - [x]	4.33 Student Excursions - October 26, 2021  
 - [ ]	4.34 Student Records
 - [ ]	4.35 Advertising And Corporate Sponsorship
-- [x]	4.36 Use of Cell Phones and Electronic Devices  
+- [x]	4.36 Use of Cell Phones and Electronic Devices - November 2, 2021 
 - [ ]	4.37 Responsible Use  
 - [x]	4.38 School Division Website Maintenance - October 26, 2021 - To be removed
 - [ ]	4.40 Permission For Use For Students Work And Personal Information
@@ -132,8 +132,8 @@
 - [ ]	6.14 Physcial Activities Safety
 - [ ]	6.15 Challenged Materials
 - [ ]	6.16 Band Program
-- [ ]	6.18 Laptop Computers
-- [ ]	6.20 Technology Requests for Software Hardware And Peripherals
+- [x]	6.18 Laptop Computers - November 2, 2021
+- [x]	6.20 Technology Requests for Software Hardware And Peripherals - November 2, 2021
 - [ ]	6.21 Third Party Review Of Special Education Decisions
 - [ ]	6.22 Apprenticeship Credits 
 - [ ]	6.23 Research Projects  
@@ -142,10 +142,10 @@
 
 - [ ]	7.01 Accounting Guidelines
 - [ ]	7.02 Budget
-- [ ]	7.03 Inventory Management
+- [x]	7.03 Inventory Management - November 16, 2021
 - [ ]	7.04 Insurance
-- [ ]	7.05 Payments
-- [ ]	7.06 Purchasing
+- [x]	7.05 Payments - November 16, 2021
+- [x]	7.06 Purchasing - November 16, 2021
 - [ ]	7.07 Fund Accounting
 - [ ]	7.08 Records
 <br/>
