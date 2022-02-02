@@ -52,9 +52,11 @@
 
 **PIT** - Project Initiation Template
 
+**PLC** - Professional Learning Community
+
 **PMR** - Preventative Maintenance Revenue (Facilities funding)
 
-**PLC** - Professional Learning Community
+**PoS** - Point of Sale
 
 **LAFOIPP** - Local Authority Freedom of Information and Privacy Protection
 
