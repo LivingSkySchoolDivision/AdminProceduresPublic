@@ -24,6 +24,8 @@
 
 **ELIS** - Educator License Information System
 
+**ES** - Employee Services
+
 **EYE** - Early Years Evaluation
 
 **F&P** - Fountas and Pinnell (reading assessment)
@@ -41,6 +43,8 @@
 **ISSI** - Invitational Shared Services Initiative
 
 **JP** - Jordan's Principle
+
+**OS** - Operational Services
 
 **PBIS** - Positive Behavioural Interventions and Supports
 
@@ -67,6 +71,8 @@
 **LEADS** - League of Education Administrator, Directors, and Superintendents
 
 **Leads** - Leaders
+
+**LS** - Learning Services
 
 **MHCB** - Mental Health Capacity Building
 
